@@ -1,8 +1,6 @@
 /*
-
 Stimulus Templat
 http://www.templatemo.com/tm-498-stimulus
-
 */
 
 body {
@@ -24,7 +22,7 @@ html,body {
 -----------------------------------------*/
 
 h1,h2,h3,h4,h5,h6 {
-		text-align: right;
+	
 		
   font-style: normal;
   font-weight: 300;
@@ -77,8 +75,6 @@ p {
     font-weight: 300;
     line-height: 28px;
     letter-spacing: 0.2px;
-	text-align: right;
-	direction:rtl;
 }
 
 .section-btn {
